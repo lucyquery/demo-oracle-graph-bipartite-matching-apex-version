@@ -42,7 +42,7 @@ Fill in:
 * Logout
 * Login again using the newly created workspace
 
-<img src="/app/img/logout.png" width="300" height="250">  <img src="/app/img/login.png" width="300">
+<img src="/app/img/logout.png" width="300" height="300">  <img src="/app/img/login.png" width="300">
 
 ---
 
@@ -58,7 +58,7 @@ f100.sql
 
 4. Follow the import steps and confirm
 
-<img src="/app/img/07-image.png" width="300"> <img src="/app/img/08-image.png" width="300">
+<img src="/app/img/07-image.png" width="300" height="300"> <img src="/app/img/08-image.png" width="300"> <img src="/app/img/09-image.png" width="300">
 
 ---
 
