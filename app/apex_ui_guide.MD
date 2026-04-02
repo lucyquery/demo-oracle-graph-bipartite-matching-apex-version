@@ -42,7 +42,7 @@ Fill in:
 * Logout
 * Login again using the newly created workspace
 
-![Workspace Login](images/03-workspace-login.png)
+<img src="/app/img/logout.PNG" width="300"> <img src="/app/img/login.PNG" width="300">
 
 ---
 
@@ -58,7 +58,7 @@ f100.sql
 
 4. Follow the import steps and confirm
 
-![Import Application](images/04-import-app.png)
+<img src="/app/img/07-image.PNG" width="300"> <img src="/app/img/08-image.PNG" width="300">
 
 ---
 
