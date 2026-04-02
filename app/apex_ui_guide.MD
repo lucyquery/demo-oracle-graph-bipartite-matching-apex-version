@@ -8,7 +8,7 @@ Open your browser and go to:
 
 http://localhost:8080/ords/apex
 
-<img src="/app/img/01-image.PNG" width="500">
+<img src="/app/img/01-image.PNG" width="300">
 
 ## 2. Login
 
@@ -17,7 +17,7 @@ Use the credentials defined during setup:
 * Username: ADMIN
 * Password: Matching12345!
 
-<img src="/app/img/02-image.PNG" width="300" height="300"> <img src="/app/img/03-image.PNG" width="300"> <img src="/app/img/03-image.PNG" width="300">
+<img src="/app/img/02-image.PNG" width="300" height="300"> 
 
 ## 3. Create Workspace
 
@@ -33,7 +33,7 @@ Fill in:
 * Schema (you can use `MATCHING_APP`)
 * Commit the changes
 
-![Create Workspace](images/02-create-workspace.png)
+<img src="/app/img/03-image.PNG" width="300"> <img src="/app/img/03-image.PNG" width="300">
 
 ---
 
