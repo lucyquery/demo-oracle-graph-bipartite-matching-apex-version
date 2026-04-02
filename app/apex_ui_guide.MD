@@ -42,7 +42,7 @@ Fill in:
 * Logout
 * Login again using the newly created workspace
 
-<img src="/app/img/logout.png" width="300" height="280">  <img src="/app/img/login.png" width="300">
+<img src="/app/img/logout.png" width="300" height="295">  <img src="/app/img/login.png" width="300">
 
 ---
 
