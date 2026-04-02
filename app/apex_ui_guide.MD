@@ -21,7 +21,7 @@ Use the credentials defined during setup:
 * Username: ADMIN
 * Password: Matching12345!
 
-![Login](img/02-image.png)
+<img src="/app/img/02-image.PNG" width="500"> <img src="/app/img/03-image.PNG" width="500"> <img src="/app/img/03-image.PNG" width="500">
 
 ---
 
