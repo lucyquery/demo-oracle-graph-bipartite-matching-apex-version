@@ -33,7 +33,7 @@ Fill in:
 * Schema (you can use `MATCHING_APP`)
 * Commit the changes
 
-<img src="/app/img/03-image.PNG" width="300"> <img src="/app/img/03-image.PNG" width="300">
+<img src="/app/img/03-image.PNG" width="300"> <img src="/app/img/04-image.PNG" width="300">
 
 ---
 
