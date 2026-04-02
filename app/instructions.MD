@@ -20,7 +20,6 @@ Matching12345!
 
 ⚠️ You may change it, but ensure consistency across all steps.
 
----
 
 ## 1. Start Oracle Database (Container)
 
@@ -32,16 +31,12 @@ podman run -d \
   container-registry.oracle.com/database/free:latest
 ```
 
----
-
 ## 2. Access Container
 
 ```bash
 podman exec -it oracle23aifree bash
 cd /home/oracle
 ```
-
----
 
 ## 3. Install Oracle APEX
 
@@ -70,8 +65,6 @@ Set credentials:
 * Username: ADMIN
 * Password: Matching12345!
 
----
-
 ## 4. Install ORDS (Outside Container)
 
 Exit the container first:
@@ -95,15 +88,11 @@ mkdir -p ~/ords-config
 mkdir -p ~/apex-images
 ```
 
----
-
 ## 5. Copy APEX Static Files
 
 ```bash
 podman cp oracle23aifree:/home/oracle/apex/images ~/apex-images/
 ```
-
----
 
 ## 6. Install ORDS
 
@@ -125,8 +114,6 @@ When prompted for ORDS runtime user password:
 ➡️ Choose option to set password manually
 ➡️ Use: `Matching12345!`
 
----
-
 ## 7. Configure Static Files (/i/)
 
 ```bash
@@ -134,7 +121,6 @@ When prompted for ORDS runtime user password:
 ./bin/ords --config ~/ords-config config set standalone.static.context.path /i
 ```
 
----
 
 ## 8. Start ORDS
 
@@ -142,7 +128,6 @@ When prompted for ORDS runtime user password:
 ./bin/ords --config ~/ords-config serve --port 8080
 ```
 
----
 
 ## 9. Verify Static Files
 
@@ -156,7 +141,6 @@ Expected:
 HTTP/1.1 200 OK
 ```
 
----
 
 ## 10. Access APEX
 
@@ -172,7 +156,6 @@ Login:
 * Username: ADMIN
 * Password: Matching12345!
 
----
 
 ## 11. Prepare Application Schema
 
@@ -204,8 +187,6 @@ GRANT CREATE TRIGGER TO matching_app;
 GRANT UNLIMITED TABLESPACE TO matching_app;
 ```
 
----
-
 ## 12. Run Algorithm Script
 
 ```bash
@@ -216,15 +197,11 @@ sqlplus matching_app/Matching12345\!@FREEPDB1
 @/home/oracle/hopcroftkarp.sql
 ```
 
----
-
 ## 13. Import APEX Application
 
 * Open App Builder
 * Import application
 * Upload the exported file (`f100.sql`)
-
----
 
 ## Troubleshooting
 
@@ -235,8 +212,6 @@ Ensure passwords match:
 * SYS
 * ORDS_PUBLIC_USER
 * Schema user
-
----
 
 ### ORA-28000 (Account Locked)
 
