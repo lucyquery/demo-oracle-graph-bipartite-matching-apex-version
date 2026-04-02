@@ -35,16 +35,12 @@ Fill in:
 
 <img src="/app/img/03-image.PNG" width="300"> <img src="/app/img/04-image.PNG" width="300"> <img src="/app/img/05-image.PNG" width="300">
 
----
-
 ## 4. Switch to New Workspace
 
 * Logout
 * Login again using the newly created workspace
 
 <img src="/app/img/logout.png" width="300" height="290">  <img src="/app/img/login.png" width="300">
-
----
 
 ## 5. Import Application
 
