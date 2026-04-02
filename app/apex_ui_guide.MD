@@ -10,7 +10,7 @@ Open your browser and go to:
 
 http://localhost:8080/ords/apex
 
-![Administrator](img/01-image.png)
+![Administrator](/img/01-image.png)
 
 ---
 
