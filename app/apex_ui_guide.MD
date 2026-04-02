@@ -10,7 +10,7 @@ Open your browser and go to:
 
 http://localhost:8080/ords/apex
 
-<img src="docs/images/01-login.png" width="500">
+<img src="app/img/01-login.png" width="500">
 
 ---
 
