@@ -2,8 +2,6 @@
 
 This guide explains how to set up the full environment required to run the Bipartite Matching APEX application.
 
----
-
 ## Overview
 
 The setup consists of three main components:
@@ -11,8 +9,6 @@ The setup consists of three main components:
 1. Oracle Database (container)
 2. Oracle APEX (installed inside the database)
 3. ORDS (running on the host)
-
----
 
 ## Credentials
 
