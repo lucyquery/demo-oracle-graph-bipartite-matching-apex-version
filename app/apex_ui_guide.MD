@@ -10,17 +10,18 @@ Open your browser and go to:
 
 http://localhost:8080/ords/apex
 
+![Administrator](img/01-image.png)
+
 ---
 
 ## 2. Login
 
 Use the credentials defined during setup:
 
-* Workspace: INTERNAL
 * Username: ADMIN
 * Password: Matching12345!
 
-![Login](images/01-login.png)
+![Login](img/02-image.png)
 
 ---
 
