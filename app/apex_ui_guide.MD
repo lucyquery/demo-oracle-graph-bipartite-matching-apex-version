@@ -60,8 +60,6 @@ f100.sql
 
 <img src="/app/img/07-image.png" width="300" height="305"> <img src="/app/img/08-image.png" width="300"> <img src="/app/img/09-image.png" width="300">
 
----
-
 ## 6. Run Application
 
 After import:
@@ -71,9 +69,7 @@ After import:
 
 The application will open in a new tab.
 
-![Run Application](images/05-run-app.png)
-
----
+<img src="/app/img/10-image.png" width="300"> <img src="/app/img/11-image.png" width="300">
 
 ## 7. Test the Application
 
@@ -84,7 +80,6 @@ You can now:
 * Define assignments
 * Execute the matching algorithm
 
----
 
 ## Notes
 
@@ -92,4 +87,4 @@ You can now:
 * If no data appears, verify that the database script was executed successfully
 * If login fails, check workspace and credentials
 
----
+
