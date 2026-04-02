@@ -2,8 +2,6 @@
 
 This guide explains how to configure and run the application using the Oracle APEX interface.
 
----
-
 ## 1. Access APEX
 
 Open your browser and go to:
@@ -11,8 +9,6 @@ Open your browser and go to:
 http://localhost:8080/ords/apex
 
 <img src="/app/img/01-image.PNG" width="500">
-
----
 
 ## 2. Login
 
@@ -22,8 +18,6 @@ Use the credentials defined during setup:
 * Password: Matching12345!
 
 <img src="/app/img/02-image.PNG" width="300" height="300"> <img src="/app/img/03-image.PNG" width="300"> <img src="/app/img/03-image.PNG" width="300">
-
----
 
 ## 3. Create Workspace
 
