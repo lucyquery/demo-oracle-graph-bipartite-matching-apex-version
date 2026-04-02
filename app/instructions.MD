@@ -203,6 +203,8 @@ sqlplus matching_app/Matching12345\!@FREEPDB1
 * Import application
 * Upload the exported file (`f100.sql`)
 
+---
+
 ## Troubleshooting
 
 ### ORA-01017 (Invalid Credentials)
