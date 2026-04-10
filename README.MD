@@ -1,6 +1,6 @@
 # Bipartite Matching
 
-![Demo](/app/img/demo.gif)
+<img src="app/img/demo.gif" width="600"/>
 
 - To set up the application step-by-step, follow this guide:
 [Full Setup Instructions](app/instructions.MD)
