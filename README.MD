@@ -1,10 +1,5 @@
 # Bipartite Matching
 
-![Demo](/app/img/demo.gif)
-
-To set up the application step-by-step, follow this guide:
-👉 [Full Setup Instructions](app/instructions.MD)
-
 **Bipartite matching** finds the largest set of edges that pair nodes from two disjoint sets without overlap.
 This project implements the **Hopcroft-Karp algorithm**, which efficiently finds maximum matchings in bipartite graphs using BFS and DFS.
 
