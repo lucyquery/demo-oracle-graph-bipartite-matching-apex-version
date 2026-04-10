@@ -1,6 +1,8 @@
 # Bipartite Matching
 
-<img src="app/img/demo.gif" width="50%"/>
+<p align="center">
+  <img src="app/img/demo.gif" width="40%"/>
+</p>
 
 - To set up the application step-by-step, follow this guide:
 [Full Setup Instructions](app/instructions.MD)
