@@ -1,7 +1,7 @@
 # Bipartite Matching
 
 <p align="center">
-  <img src="app/img/demo.gif" width="40%"/>
+  <img src="app/img/demo.gif" width="30%"/>
 </p>
 
 - To set up the application step-by-step, follow this guide:
